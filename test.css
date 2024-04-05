@@ -1,0 +1,17 @@
+* {
+  display: flex;
+  text-align: center;
+}
+
+header {
+  background-color: burlywood;
+  color: chocolate;
+}
+
+main {
+  text-overflow: inherit;
+}
+
+footer {
+  background-color: cornflowerblue;
+}
